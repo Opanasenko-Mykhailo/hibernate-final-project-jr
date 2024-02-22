@@ -1,4 +1,4 @@
-package com.javarush.main;
+package com.javarush.service;
 
 import com.javarush.dao.CityDAO;
 import com.javarush.domain.CityEntity;

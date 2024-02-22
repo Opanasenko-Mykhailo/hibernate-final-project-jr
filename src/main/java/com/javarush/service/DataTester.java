@@ -1,4 +1,4 @@
-package com.javarush.main;
+package com.javarush.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.javarush.dao.CityDAO;
